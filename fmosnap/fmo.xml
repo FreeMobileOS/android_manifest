@@ -89,7 +89,7 @@
     <project path="packages/apps/prebuilt/passandroid" name="platform_packages_apps_prebuilt_passandroid" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/wire" name="platform_packages_apps_prebuilt_wire" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/openlauncher" name="platform_packages_apps_prebuilt_openlauncher" remote="fmo" revision="master" />
-    <project path="packages/apps/prebuilt/lawnchair" name="platform_packages_apps_prebuilt_lawnchair" remote="fmo" revision="master" />
+    <project path="packages/apps/prebuilt/librechair" name="platform_packages_apps_prebuilt_librechair" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/silence" name="platform_packages_apps_prebuilt_silence" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/yalpstore" name="platform_packages_apps_prebuilt_yalpstore" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/kisslauncher" name="platform_packages_apps_prebuilt_kisslauncher" remote="fmo" revision="master" />

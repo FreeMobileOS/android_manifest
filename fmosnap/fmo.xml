@@ -96,7 +96,7 @@
     <project path="packages/apps/prebuilt/opencamera" name="platform_packages_apps_prebuilt_opencamera" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/leafpic" name="platform_packages_apps_prebuilt_leafpic" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/fdroidclient" name="platform_packages_apps_prebuilt_fdroidclient" remote="fmo" revision="master" />
-    <project path="packages/apps/prebuilt/apkmirror" name="platform_packages_apps_prebuilt_apkmirror" remote="fmo" revision="master" />
+    <project path="packages/apps/prebuilt/apps" name="platform_packages_apps_prebuilt_apps" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/kdeconnect" name="platform_packages_apps_prebuilt_kdeconnect" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/gmscore" name="platform_packages_apps_prebuilt_gmscore" remote="fmo" revision="master" />
     <project path="packages/apps/prebuilt/gsfproxy" name="platform_packages_apps_prebuilt_gsfproxy" remote="fmo" revision="master" />
